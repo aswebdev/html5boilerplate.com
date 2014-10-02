@@ -1,12 +1,9 @@
-# [html5boilerplate.com](http://html5boilerplate.com/)
+# [HTML5 Boilerplate Bare Bones]
 
-[![Build Status](https://travis-ci.org/h5bp/html5boilerplate.com.svg)](https://travis-ci.org/h5bp/html5boilerplate.com)
-[![devDependency Status](https://david-dm.org/h5bp/html5boilerplate.com/dev-status.svg)](https://david-dm.org/h5bp/html5boilerplate.com#info=devDependencies)
-
-The HTML5 Boilerplate website is a simple static site.
+Based on the HTML5 Boilerplate with the removal of unnessesary file. Incorporates Grunt.js for an inital workflow.
 
 * The development code is in the
-  [`src`](https://github.com/h5bp/html5boilerplate.com/tree/master/src)
+  [`src`](https://github.com/aswebdev/html5boilerplate.com/tree/master/src)
   directory.
 * The build process relies on [Grunt](http://gruntjs.com) (a
   [Node.js](http://nodejs.org) task runner).
